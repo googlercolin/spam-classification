@@ -1,0 +1,11 @@
+wordcloud
+nltk
+tables
+imbalanced-learn
+unidecode
+numpy
+requests
+nlpaug
+transformers
+imblearn
+umap-learn
