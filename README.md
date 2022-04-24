@@ -9,6 +9,8 @@ For detailed walkthrough, please view the source code in order from:
 1. [EDA](https://github.com/googlercolin/spam-classification/blob/main/EDA.ipynb)
 2. [Model](https://github.com/googlercolin/spam-classification/blob/main/Model.ipynb)
 
+**Known Issue**: If you are not able to view our Plotly graphs on Github code viewer, please download the .ipynb files locally.
+
 ## Contributors
 
 1. [@angjustin](https://github.com/angjustin) - RandomizedSearch, Random Forest Classification, Gradient Boosting Trees Classification
